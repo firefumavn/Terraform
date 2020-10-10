@@ -36,15 +36,3 @@ variable "availability_type" {
   type        = string
   default     = "ZONAL"
 }
-
-variable "db_username" {
-  default     = "web_user" 
-}
-
-variable "db_password" {
-  default     = "web_user@666999" 
-}
-
-variable "db_name" {
-  default     = "web_1" 
-}

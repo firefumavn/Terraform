@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"db","Source":"./modules/clouddb","Dir":"modules/clouddb"},{"Key":"gce","Source":"./modules/gce","Dir":"modules/gce"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"},{"Key":"dns","Source":"./modules/dns","Dir":"modules/dns"}]}
