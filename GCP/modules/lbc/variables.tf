@@ -12,7 +12,7 @@ variable "subnetwork" {}
 
 variable "address_ip" {}
 
-variable "lb_ubuntu_ip_address" {}
+variable "web_ubuntu_link" {}
 
 variable "dns_name" {
   description = ""

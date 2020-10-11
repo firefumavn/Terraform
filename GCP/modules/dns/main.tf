@@ -17,7 +17,7 @@ resource "google_dns_record_set" "web_a" {
   type         = "A"
   ttl          = 300
 
-  rrdatas = [var.lb_ip]
+  rrdatas = [var.lb_ubuntu_ip_address]
 }
 
 resource "google_dns_record_set" "web_caa" {
