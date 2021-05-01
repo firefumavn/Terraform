@@ -1,7 +1,6 @@
 #project
 variable "project" {
-  description = ""
-  default     = "ffm-dev"
+  default     = "project_id"
 }
 
 #tokyo region
